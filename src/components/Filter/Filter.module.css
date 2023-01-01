@@ -1,0 +1,13 @@
+.lable{
+    margin-left: 20px;
+    font-size: 18px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 10px;
+}
+
+.input {
+    margin-left: 0;
+    margin-right: auto;
+    height: 15px;
+}
